@@ -1,0 +1,5 @@
+fetch http://apk.ish.app/v3.14-2023-05-19/main/x86/APKINDEX.tar.gz
+fetch http://apk.ish.app/v3.14-2023-05-19/community/x86/APKINDEX.tar.gz
+v3.14.10-42-gd8ce7b89082 [http://apk.ish.app/v3.14-2023-05-19/main]
+v3.14.10-42-gd8ce7b89082 [http://apk.ish.app/v3.14-2023-05-19/community]
+OK: 14630 distinct packages available
